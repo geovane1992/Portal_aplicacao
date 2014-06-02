@@ -379,7 +379,7 @@ body{
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
 	width:23.5%;
-	margin-right:25px;
+	margin-right:0px;
 	display:none;
 	float:left;
 	overflow:hidden;
